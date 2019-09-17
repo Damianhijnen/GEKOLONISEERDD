@@ -1,0 +1,25 @@
+
+		p {
+			text-align: center;
+			color: #00004d;
+}
+		h1 {
+			text-align: center;
+			color: #00004d;
+		}
+		h2{
+			text-align: center;
+			color: #00004d;
+		}
+		body { 
+			background-color: grey;
+		}
+		img {
+			float: left;
+		}
+	
+		}
+		.box {box-sizing: border-box;
+		margin: 0 auto;
+		width: 500;
+	}	
