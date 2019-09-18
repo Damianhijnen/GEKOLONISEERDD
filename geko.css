@@ -1,4 +1,4 @@
-
+style
 		p {
 			text-align: center;
 			color: #00004d;
@@ -18,8 +18,9 @@
 			float: left;
 		}
 	
-		}
+		
 		.box {box-sizing: border-box;
 		margin: 0 auto;
 		width: 500;
 	}	
+/style
